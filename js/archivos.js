@@ -13,7 +13,7 @@ window.OBRA_CONFIG = {
   descuento: "50 %",
   tipoEntrada: "Entrada general",
   // Ejemplo: "https://wa.me/519XXXXXXXX?text=Hola,%20quiero%20comprar%20entradas"
-  enlaceEntradas: "",
+  enlaceEntradas: "https://wa.me/51931293336?text=Hola,%20quiero%20comprar%20entradas%20para%20Un%20Cuento%20de%20Navidad",
   redesSociales: {
     facebook: "",  // Ejemplo: "https://www.facebook.com/tu-pagina"
     instagram: "", // Ejemplo: "https://www.instagram.com/tu-cuenta"
