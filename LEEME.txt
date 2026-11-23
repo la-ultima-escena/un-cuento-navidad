@@ -1,0 +1,34 @@
+UN CUENTO DE NAVIDAD — LA ÚLTIMA ESCENA
+=========================================
+
+ESTRUCTURA
+un-cuento-navidad/
+├── index.html
+├── css/
+│   └── styles.css
+├── img/
+│   └── imagenes/
+│       └── afiche-oficial.png
+└── js/
+    ├── archivos.js
+    └── main.js
+
+EDICIÓN
+- index.html: contenido y orden de las secciones.
+- css/styles.css: diseño, tipografía Poppins, paleta azul noche/dorado y adaptación móvil.
+- img/imagenes/: afiches y fotografías.
+- js/archivos.js: datos de la obra y enlace de compra.
+- js/main.js: comportamiento de los botones.
+
+Para configurar el botón de compra, coloca el enlace de WhatsApp o de venta en `enlaceEntradas` dentro de js/archivos.js.
+
+Para publicar en GitHub Pages, sube todos los archivos y carpetas manteniendo esta estructura.
+
+REDES SOCIALES
+En js/archivos.js, completa las propiedades:
+- redesSociales.facebook
+- redesSociales.instagram
+- redesSociales.tiktok
+
+Los iconos SVG ya están incluidos en el HTML. Si una URL queda vacía,
+el enlace aparece pero no navega hasta que se configure la dirección real.
